@@ -1,0 +1,17 @@
+# Pastas do Ambiente Virtual (Python)
+etc/
+Include/
+Lib/
+Scripts/
+share/
+
+# Arquivos de configuração local do Python
+pyvenv.cfg
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
